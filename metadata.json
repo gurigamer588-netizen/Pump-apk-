@@ -1,0 +1,6 @@
+{
+  "name": "PetrolPump Pro",
+  "description": "Smart petrol pump calculator, shift hisab sheet, density converter, rates manager, credit book, and WhatsApp/PDF report exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
